@@ -1,8 +1,8 @@
 # Site settings
 title: Raskal Games
-email: hello@raskal.games
+email: hello@jimsellmeijer.com
 url: https://www.raskal.games
-description: "Cater your challenge."
+description: "The Brain child of a brain scientist."
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
@@ -14,7 +14,7 @@ footer: Raskal Games
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/GamesRaskal
   # - title: facebook
   #   url:
   # - title: stack-overflow
