@@ -1,5 +1,15 @@
 <!DOCTYPE html>
 <html>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167485778-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167485778-1');
+</script>
+
     {% include head.html %}
     <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     {% include nav.html %}
@@ -14,5 +24,6 @@
     {%endcomment%}
     {% include footer.html %}
     {% include js.html %}
+    {% include cookie_consent.html %}
     </body>
 </html>
