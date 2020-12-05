@@ -2,7 +2,7 @@
 title: Raskal Games
 email: hello@raskal.games
 url: https://www.raskal.games
-description: "The Brain child of a brain scientist."
+description: "The Brain child of a neuroscientist."
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
@@ -21,6 +21,8 @@ social:
   #   url:
   - title: instagram
     url: https://www.instagram.com/raskal.games/
+  - title: e-mail
+    url: mailto:hello@raskal.games
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket
